@@ -14,4 +14,7 @@ This project aims to streamline the resume creation process by combining the pow
 3) run npm install command in both frontend and api folder.
 4) run server and frontend by writing npm start.
 
+# Contributions:
+I welcome contributions from developers who are passionate about web development, natural language processing, and user experience. Whether you want to add new features, improve existing functionalities, or fix bugs, your contributions are valuable to make this resume builder even better.
+
 
